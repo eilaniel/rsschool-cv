@@ -2,7 +2,7 @@ html {
   scroll-behavior: smooth; 
 }
 body {
-    font-family: 'Roboto', sans-serif; margin: 0; padding: 0; min-height: 100vh; display: flex;
+    font-family: 'Roboto', sans-serif; width: 960px; margin: 0 auto; padding: 0; min-height: 100vh; display: flex;
     flex-direction: column;
     justify-content: space-between;
     background-color: beige;
