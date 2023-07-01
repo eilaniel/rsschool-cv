@@ -1,2 +1,2 @@
-CV
-# Svetlana Mkhitaryan
+
+# Lana Mkhitaryan
